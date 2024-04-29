@@ -1,0 +1,75 @@
+*{
+    text-align: 0;
+    color: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.win{
+    border: 1px solid gray;
+    border-radius: 5px;
+    border-collapse: collapse;
+    width: 400px;
+    height: 700px;
+    margin: 50px;
+}
+
+.title{
+    margin-left: 10px;
+}
+
+.st:hover{
+    text-decoration: underline;
+}
+
+.st{
+    text-decoration: none;
+}
+
+.wiki2{
+    width: 100px;
+}
+
+.info{ 
+    border-bottom: 1px solid gray;
+}
+
+.all:hover{
+    color: black;
+    text-decoration: underline;
+    
+    
+}
+
+.all{
+    text-decoration: 0;
+    color: black;
+}
+
+.info3:hover{
+    text-decoration: underline;
+}
+
+.info3{
+    text-decoration: none;
+}
+
+.sim{
+    border: 1px none none;
+    border-radius: 5px;
+    width: 90px;
+    height: 50px;
+    margin: 4px;
+}
+
+.all2:hover{
+    text-decoration: underline;
+}
+
+.all2{
+    text-decoration: none;
+}
+
+p{
+    margin: 10px;
+}
